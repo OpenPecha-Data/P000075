@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-18
+  layers:
+  - book_title
+  - author
+  - sabche
+web_metadata:
+  title:
+    en: The Heart of the Three Sets of Vows
+    bo: སྡོམ་པ་གསུམ་གྱི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  collection:
+    en: Pema Karpo Series–  Book 18
+    bo: ''
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ''
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: ''
+  sku: KS-PK-18
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-18.epub
+  description:
+    en: ''
+    bo: ''

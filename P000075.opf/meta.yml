@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000075
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-18
   layers:
   - book_title
   - author
   - sabche
+  id: KS-PK-18
 web_metadata:
   title:
     en: The Heart of the Three Sets of Vows
